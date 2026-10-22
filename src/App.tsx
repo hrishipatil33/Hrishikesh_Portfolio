@@ -201,9 +201,9 @@ function App() {
             <div className="contact-grid"><div data-reveal="left"><span className="eyebrow">OPEN TO CONNECTIONS</span><h2>Let's build something<br /><span>intelligent.</span></h2></div>
               <div className="contact-copy" data-reveal="right"><p>Interested in robotics software, autonomous systems, industrial automation, or robotics-IoT? I'd be glad to connect about relevant opportunities and technical projects.</p>
                 <div className="contact-links">
-                  <a href="mailto:YOUR_EMAIL@example.com" onClick={e => { if (e.currentTarget.href.endsWith('YOUR_EMAIL@example.com')) { e.preventDefault(); alert('Replace YOUR_EMAIL@example.com in src/App.tsx with your real email address.') } }}><Mail size={17} /> Email me <ArrowUpRight size={15} /></a>
-                  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn <ExternalLink size={14} /></a>
-                  <a href="https://github.com/" target="_blank" rel="noreferrer"><Github size={17} /> GitHub <ExternalLink size={14} /></a>
+                  <a href="mailto:hrishikesh.patil@ue-germany.de"><Mail size={17} /> Email me <ArrowUpRight size={15} /></a>
+                  <a href="https://www.linkedin.com/in/hrishikesh-patil-9642051b3/" target="_blank" rel="noreferrer"><Linkedin size={17} /> LinkedIn <ExternalLink size={14} /></a>
+                  <a href="https://github.com/hrishipatil33" target="_blank" rel="noreferrer"><Github size={17} /> GitHub <ExternalLink size={14} /></a>
                 </div>
               </div>
             </div>
